@@ -35,7 +35,7 @@ Last Updated: Saturday, March 12th, 2022, 12:59:04 AM (GMT)
 2. ⭐ Starred [aimagelab/camel](https://github.com/aimagelab/camel)
 3. ⭐ Starred [salesforce/BLIP](https://github.com/salesforce/BLIP)
 4. ⭐ Starred [TheoCoombes/CLIP-Image-Captioning](https://github.com/TheoCoombes/CLIP-Image-Captioning)
-5. 📔 Created new repository [gagan3012/git-drawing](https://github.com/gagan3012/git-drawing)
+5. 📔 Created new repository [to be updated](to be updated)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/nk-vo/nk-vo/blob/output/github-contribution-grid-snake.gif)
