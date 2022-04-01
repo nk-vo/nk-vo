@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 12th, 2022, 12:59:04 AM (GMT)
+Last Updated: Thursday, April 1st, 2022, 12:59:04 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
 1. ⭐ Starred [charlax/professional-programming](https://github.com/charlax/professional-programming)
 2. ⭐ Starred [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 3. ⭐ Starred [amiryousefi/telegram-analysis](https://github.com/amiryousefi/telegram-analysis)
-4. ⭐ Starred [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer)
+4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 5. 📔 Created new repository [to be updated](to be updated)
 <!--RECENT_ACTIVITY:end-->
 
