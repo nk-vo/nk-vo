@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vo.nick2868@gmail.com**
 
-- 📄 Know about my experiences [**Resume here**](link to be updated)
+- 📄 Know about my experiences [**Resume here**](https://drive.google.com/file/d/1edaD6-Kg4J4NHSismcqsFXyBox19kQEA/view)
 
 - ⚡ Fun fact **To be updated**
 
