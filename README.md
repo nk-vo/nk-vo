@@ -35,7 +35,7 @@ Last Updated: Thursday, April 1st, 2022, 12:59:04 AM (GMT)
 2. ⭐ Starred [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 3. ⭐ Starred [amiryousefi/telegram-analysis](https://github.com/amiryousefi/telegram-analysis)
 4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-5. 📔 Created new repository [to be updated](to be updated)
+5. 📔 Created new repository [ELEC291-Electrical-Engineering-Design-Studio](https://github.com/nk-vo/ELEC291-Electrical-Engineering-Design-Studio)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/nk-vo/nk-vo/blob/output/github-contribution-grid-snake.gif)
