@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [**Resume here**](https://drive.google.com/file/d/1edaD6-Kg4J4NHSismcqsFXyBox19kQEA/view)
 
-- ⚡ Fun fact **To be updated**
+- ⚡ View my portfolio [**Portfolio**] (https://nickvo.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
