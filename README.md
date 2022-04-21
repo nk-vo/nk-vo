@@ -21,13 +21,14 @@
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=nk-vo&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=nk-vo&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 </a> -->
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=nk-vo&hide_border=true">
+<!-- <a href="https://github-readme-streak-stats.herokuapp.com/?user=nk-vo&hide_border=true">
   <img width="450" align="center" src="https://github-readme-stats.vercel.app/api/?username=nk-vo&count_private=true&show_icons=true&line_height=22" alt="my-stats" />
   <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk-vo&count_private=true&show_icons=true&layout=compact&line_height=27" alt="my-lang-stats" />
   
-</a>
+</a> -->
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api/?username=nk-vo&count_private=true&show_icons=true&line_height=22" alt="my-stats" />
+  <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk-vo&count_private=true&show_icons=true&layout=compact&line_height=27" alt="my-lang-stats" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk-vo)](https://github.com/anuraghazra/github-readme-stats)
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, April 21st, 2022, 12:59:04 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
