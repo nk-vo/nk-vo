@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **vo.nick2868@gmail.com**
 
-- 📄 Know about my experiences [**Resume here**](https://drive.google.com/file/d/1edaD6-Kg4J4NHSismcqsFXyBox19kQEA/view)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1edaD6-Kg4J4NHSismcqsFXyBox19kQEA/view)
 
-- ⚡ See things I build [**Portfolio**](https://nickvo.dev)
+- ⚡ Check out things I build [**Portfolio**](https://nickvo.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
