@@ -19,7 +19,7 @@
 
 <p>
   <img width="450" align="center" src="https://github-readme-stats.vercel.app/api/?username=nk-vo&count_private=true&show_icons=true&line_height=22" alt="my-stats" />
-  <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk-vo&count_private=true&show_icons=true&layout=compact&line_height=27&hide=python" alt="my-lang-stats" />
+  <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nk-vo&count_private=true&show_icons=true&layout=compact&line_height=27&hide=python,jupyter%20notebook" alt="my-lang-stats" />
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
