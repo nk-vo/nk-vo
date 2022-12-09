@@ -17,11 +17,12 @@
   <a href="https://linkedin.com/in/nk-vo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nk-vo" height="30" width="40" /></a>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=nk-vo&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
     <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=nk-vo&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=nk-vo&hide_border=true">
     <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=nk-vo&hide_border=true" />
   </a>
-</p>
+</p>*/ -->
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
