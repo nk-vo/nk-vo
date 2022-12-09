@@ -25,4 +25,4 @@
     <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=nk-vo&hide_border=true" />
   </a>
 </p>*/ -->
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nk-vo/langs)](https://githubtrends.io)
