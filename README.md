@@ -17,12 +17,11 @@
   <a href="https://linkedin.com/in/nk-vo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nk-vo" height="30" width="40" /></a>
 </p>
 
-
 <a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/nk-vo/langs?time_range=one_year&use_percent=True&include_private=True&group=private&theme=dark" />
+  <img align="center" src="https://api.githubtrends.io/user/svg/nk-vo/langs?time_range=one_year&use_percent=True&include_private=True&group=private&theme=classic" />
 </a>
 <a href="https://githubtrends.io">
-  <img align="center" src="https://api.githubtrends.io/user/svg/nk-vo/repos?time_range=one_year&include_private=True&group=private&theme=dark" />
+  <img align="center" src="https://api.githubtrends.io/user/svg/nk-vo/repos?time_range=one_year&include_private=True&group=private&theme=classic" />
 </a>
 
 
