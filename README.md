@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=1012&lines=Hi+%F0%9F%91%8B%2C+I'm+Nick!)](https://git.io/typing-svg)
+<!-- <h1 align="center">Hi 👋, I'm Nick</h1> -->
+<h1></h1>
 <h3 align="center">I like to build things</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
