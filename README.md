@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Frontend and Backend Development**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **vo.nick2868@gmail.com**
 
