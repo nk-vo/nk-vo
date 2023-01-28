@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/nkvo28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nkvo28" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/nk-vo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nk-vo" height="30" width="40" /></a>
+  <a href="https://twitter.com/nkvo28" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nkvo28" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nk-vo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nk-vo" height="30" width="40" /></a>
 </p>
 
 <a href="https://githubtrends.io">
