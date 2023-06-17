@@ -3,7 +3,7 @@
 <h1></h1>
 <h3 align="center">I like to build things</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently working as **Full Stack Developer**
 
 - 💬 Ask me about **DevOps**
 
