@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently working as **Full Stack Developer**
 
-- 💬 Ask me about **DevOps**
-
-- 📫 How to reach me **vo.nick2868@gmail.com**
-
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1ATb5iBxsqdxokCLv_L7vthlnLlgN83Dz/view)
+- 💬 Currently interested in **DevOps**, **Personal Finance** and **AI Development**
 
 - ⚡ Check out things I build [**Portfolio**](https://nickvo.dev)
+
+- 💼 Previously at <a href="https://tamvoes.com/main">Tamvoes Health</a>, <a href="https://www.fernsoftware.com/">Fern Software</a>, and <a href="https://transport.moveelectric.ca/">Move Electric</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
