@@ -3,7 +3,7 @@
 <h1></h1>
 <h3 align="center">I like to build things</h3>
 
-- 🌱 I’m currently working as **Full Stack Developer**
+- 🌱 I’m currently working as **Software Engineer**
 
 - 💬 Currently interested in **DevOps**, **Personal Finance** and **AI Development**
 
