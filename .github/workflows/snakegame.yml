@@ -1,28 +1,16 @@
-name: Generate Snake Animation
+name: Snake game generator from Github contributions
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-
-  push:
-    branches:
-      - main
+    - cron: "* */12 * * *" # Runs daily at midnight
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate Snake
-        uses: Platane/snk@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-      - name: Commit and Push Snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Updated snake animation"
-          add: "github-contribution-grid-snake.svg"
+      - name: Generate Snake game
+        uses: Sutil/snk@v01.00.02
