@@ -3,13 +3,11 @@
 <h1></h1>
 <h3 align="center">I like to build things</h3>
 
-- 🌱 I’m currently working as **Software Engineer**
+- 🌱 I’m currently working as **Software Engineer** at <a href="https://comm100.com/">Comm100</a>
 
 - 💬 Currently interested in **DevOps**, **Personal Finance** and **AI Development**
 
 - ⚡ Check out things I build [**Portfolio**](https://nickvo.dev)
-
-- 💼 Currently at <a href="https://comm100.com/">Comm100</a>
 
 - 💼 Previously at <a href="https://tamvoes.com/main">Tamvoes Health</a>, <a href="https://www.fernsoftware.com/">Fern Software</a>, and <a href="https://transport.moveelectric.ca/">Move Electric</a>
 
