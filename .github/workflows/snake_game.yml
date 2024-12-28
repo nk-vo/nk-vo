@@ -27,9 +27,17 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y libpixman-1-dev libcairo2-dev
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
       # Generate the snake game animation
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
